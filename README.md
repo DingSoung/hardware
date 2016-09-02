@@ -1,12 +1,10 @@
-
 ## DisplayPort
-
 |Version|Speed|Resolution|Port|
 |:---|:---|:---|:---|
 |1.0|8.64Gbit|-|-|
 |1.1|-||Mini DP, DP|
 |1.2|-|4K 60Hz| |
-|1.3|32.4 Gbps|25.92Gbps，4K 20X2880）60hz、8K 30hz|USB Type-C|
+|1.3|32.4 Gbps|25.92Gbps，4K 60hz、8K 30hz|USB Type-C|
 |1.4a|32.4 Gbps|sound 32 channel 1536KHz,8K|eDP|
 `other version:1.2a`
 
@@ -27,7 +25,6 @@
 |3.0|-|
 
 ## USB
-
 |Version|Speed|Power|Port|
 |:---|:---|:---|:---|
 |2.0|480Mbps|5V 100mA|Type A|
