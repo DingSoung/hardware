@@ -1,9 +1,9 @@
 ## DisplayPort
 |Version|Speed|Resolution|Port|
 |:---|:---|:---|:---|
-|1.0|8.64Gbit|-|-|
-|1.1|-||Mini DP, DP|
-|1.2|-|4K 60Hz| |
+|1.0|8.64Gbit|||
+|1.1|||Mini DP, DP|
+|1.2||4K 60Hz||
 |1.3|32.4 Gbps|25.92Gbps，4K 60hz、8K 30hz|USB Type-C|
 |1.4a|32.4 Gbps|sound 32 channel 1536KHz,8K|eDP|
 `other version:1.2a`
@@ -20,9 +20,9 @@
 ## PCI-E
 |Version|Speed|
 |:---|:---|
-|1.0|-|
-|2.0|-|
-|3.0|-|
+|1.0||
+|2.0||
+|3.0||
 
 ## USB
 |Version|Speed|Power|Port|
@@ -34,10 +34,11 @@
 |3.1|10Gbps|100W|Type-C|
 
 ## Thunderbolt
-|Version|Speed|Power|Port|
-|:---|:---|:---|:---|
-|1.0|10Gbps|-|Mini Displayport, DP|
-|2.0|20Gbps|-|Mini Displayport, DP|
-|3.0|40Gbps|100W|USB Type-C|
-`Thunderbolt also support USB3.1, Base on PCIe 3.0 x4, support HDMI2.0 DisplayPort1.3`
+|Version|Speed|Power|Port|support|
+|:---|:---|:---|:---|:---|
+|1.0|10Gbps||Thunderbolt||
+|2.0|20Gbps||Thunderbolt|DisplayPort|
+|3.0|40Gbps|100W|USB Type-C|USB3.1, DisplayPort1.3|
+`Thunderbolt also support DisplayPort`
+`Thunderbolt3.0 also support USB3.1, Base on PCIe 3.0 x4, support HDMI2.0 DisplayPort1.3`
 
