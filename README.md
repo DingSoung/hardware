@@ -1,13 +1,13 @@
 
 ## DisplayPort
+
 |Version|Speed|Resolution|Port|
-|:---|:---|:---|:-|
+|:---|:---|:---|:---|
 |1.0|8.64Gbit|-|-|
 |1.1|-||Mini DP, DP|
-|1.2|-|4K（4096X2160）60Hz| |
-|1.3|32.4 Gbps|25.92Gbps，4K（3840X2160）120hz、5K（5120X2880）60hz、8K（7680X4320）30hz|USB Type-C|
-|1.4a|32.4 Gbps|sound 32 channel 1536KHz,8K（7680x4320）|eDP|
-
+|1.2|-|4K 60Hz| |
+|1.3|32.4 Gbps|25.92Gbps，4K 20X2880）60hz、8K 30hz|USB Type-C|
+|1.4a|32.4 Gbps|sound 32 channel 1536KHz,8K|eDP|
 `other version:1.2a`
 
 ## HDMI
@@ -27,8 +27,9 @@
 |3.0|-|
 
 ## USB
+
 |Version|Speed|Power|Port|
-|:---|:---|:---|:-|:-|
+|:---|:---|:---|:---|
 |2.0|480Mbps|5V 100mA|Type A|
 |3.0|4.8Gbps|5V 900mA|Type A/B|
 |3.1 Gen1|5Gbps|5V 900mA|Type A/B|
@@ -37,7 +38,7 @@
 
 ## Thunderbolt
 |Version|Speed|Power|Port|
-|:---|:---|:---|:-|
+|:---|:---|:---|:---|
 |1.0|10Gbps|-|Mini Displayport, DP|
 |2.0|20Gbps|-|Mini Displayport, DP|
 |3.0|40Gbps|100W|USB Type-C|
